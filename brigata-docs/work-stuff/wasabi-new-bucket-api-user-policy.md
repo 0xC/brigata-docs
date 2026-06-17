@@ -1,4 +1,7 @@
-666, the number of the beast.
+---
+brigata_id: 16b9e43f-bc5d-4d61-a18c-63691e354ec0
+title: "wasabi-new-bucket-api-user-policy"
+---
 
 ---
 brigata_id: 16b9e43f-bc5d-4d61-a18c-63691e354ec0
